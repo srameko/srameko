@@ -17,18 +17,14 @@ When I'm not in front of a SIEM, I teach cybersecurity at [Czechitas](https://cz
 
 ---
 
-### 🏅 Certifications
 
-[![GNFA](https://img.shields.io/badge/🛡_GNFA-Network_Forensic_Analyst-1a1a2e?style=flat-square)](https://www.giac.org/certifications/network-forensic-analyst-gnfa/)
-[![GMON](https://img.shields.io/badge/🛡_GMON-Continuous_Monitoring-1a1a2e?style=flat-square)](https://www.giac.org/certifications/continuous-monitoring-certification-gmon/)
-[![GCTI](https://img.shields.io/badge/🛡_GCTI-Cyber_Threat_Intelligence-1a1a2e?style=flat-square)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/)
-
----
 
 ### 🔗 Find me
 
-[![Website](https://img.shields.io/badge/🌐_Web-ondrejsramek.cz-1a1a2e?style=flat-square)](https://ondrejsramek.cz)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-osramek-1a1a2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/osramek)
-[![X](https://img.shields.io/badge/𝕏_X-@sramek__o-1a1a2e?style=flat-square&logo=x)](https://x.com/sramek_o)
-[![Bluesky](https://img.shields.io/badge/🦋_Bluesky-ondrejsramek-1a1a2e?style=flat-square&logo=bluesky&logoColor=0085FF)](https://bsky.app/profile/ondrejsramek)
-[![Photography](https://img.shields.io/badge/📷_500px-srameko-1a1a2e?style=flat-square&logo=500px&logoColor=0099E5)](https://500px.com/p/srameko)
+
+[![Web](https://img.shields.io/badge/Web-ondrejsramek.cz-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ondrejsramek.cz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-osramek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osramek)
+[![X](https://img.shields.io/badge/X-@sramek__o-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sramek_o)
+[![Bluesky](https://img.shields.io/badge/Bluesky-ondrejsramek-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ondrejsramek)
+[![500px](https://img.shields.io/badge/500px-srameko-0099E5?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/srameko)
+
